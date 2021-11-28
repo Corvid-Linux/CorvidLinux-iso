@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name='corvid-linux-full"
+iso_name="corvid-linux-full"
 iso_label="CORVIDLINUX_$(date +%Y%m)"
 iso_publisher="Corvid Linux <https://www.blackarch.org/>"
 iso_application="Corvid Linux Full ISO"
