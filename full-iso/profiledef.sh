@@ -13,4 +13,5 @@ pacman_conf="pacman.conf"
 file_permissions=(
   ["/etc/shadow"]="0:0:0400"
   ["/etc/gshadow"]="0:0:0400"
+  ["/usr/bin/azh"]="0:0:755"
 )
