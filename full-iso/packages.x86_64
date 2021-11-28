@@ -2940,6 +2940,3 @@ which
 xdg-desktop-portal-kde
 xdg-user-dirs
 zeroconf-ioslave
-zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
