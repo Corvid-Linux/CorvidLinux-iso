@@ -1,5 +1,6 @@
 ### archiso
 amd-ucode
+intel-ucode
 arch-install-scripts
 b43-fwcutter
 bind-tools
@@ -118,11 +119,6 @@ xf86-video-vmware
 base
 base-devel
 
-### vm
-open-vm-tools
-virtualbox-guest-utils
-
-
 ### audio
 alsa-firmware
 alsa-lib
@@ -212,7 +208,6 @@ xiccd
 
 ### installer
 calamares
-blackarch-config-calamares
 
 ### xfce4
 xfce4
@@ -228,17 +223,6 @@ xfce4-screensaver
 xfce4-screenshooter
 xfce4-whiskermenu-plugin
 xfce4-xkb-plugin
-
-### blackarch setup
-blackarch-keyring
-blackarch-mirrorlist
-blackarch-menus
-blackarch-config-cursor
-blackarch-config-icons
-blackarch-config-xfce
-blackarch-config-bash
-blackarch-config-zsh
-blackarch-config-vim
 
 ### pentesting tools
 aircrack-ng
